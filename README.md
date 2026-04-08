@@ -13,7 +13,7 @@
 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=rincher)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rincher&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rincher)
 
 ## 🔥 GitHub Streak
 
