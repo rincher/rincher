@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=rincher)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=rincher)]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rincher&layout=compact&theme=default)
 
